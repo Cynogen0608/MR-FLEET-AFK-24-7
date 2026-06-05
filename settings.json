@@ -1,15 +1,16 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "MR_Fleet Gamer",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "CYNO_BHAU_LIVE_SMP.aternos.me",
+    "port": 59182,
     "version": "1.20.1",
     "try-creative": false
+  
   },
   "position": {
     "enabled": true,
@@ -31,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm Fleet Gamer..!",
+        "Subscribe to Cyno Gaming Live!"
+        
       ]
     },
     "chat-log": true,
